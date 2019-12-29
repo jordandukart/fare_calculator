@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fare-calculator/static/css/main.85e8adf5.chunk.css",
+    "main.js": "/fare-calculator/static/js/main.cfeb6619.chunk.js",
+    "main.js.map": "/fare-calculator/static/js/main.cfeb6619.chunk.js.map",
+    "runtime-main.js": "/fare-calculator/static/js/runtime-main.49639900.js",
+    "runtime-main.js.map": "/fare-calculator/static/js/runtime-main.49639900.js.map",
+    "static/js/2.8cb9f3eb.chunk.js": "/fare-calculator/static/js/2.8cb9f3eb.chunk.js",
+    "static/js/2.8cb9f3eb.chunk.js.map": "/fare-calculator/static/js/2.8cb9f3eb.chunk.js.map",
+    "index.html": "/fare-calculator/index.html",
+    "precache-manifest.81659f8f05104bef10514b2a77c2ecfe.js": "/fare-calculator/precache-manifest.81659f8f05104bef10514b2a77c2ecfe.js",
+    "service-worker.js": "/fare-calculator/service-worker.js",
+    "static/css/main.85e8adf5.chunk.css.map": "/fare-calculator/static/css/main.85e8adf5.chunk.css.map",
+    "static/js/2.8cb9f3eb.chunk.js.LICENSE": "/fare-calculator/static/js/2.8cb9f3eb.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.49639900.js",
+    "static/js/2.8cb9f3eb.chunk.js",
+    "static/css/main.85e8adf5.chunk.css",
+    "static/js/main.cfeb6619.chunk.js"
+  ]
+}
