@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/fare_calculator/static/css/main.a75e158a.chunk.css",
-    "main.js": "/fare_calculator/static/js/main.647a2d94.chunk.js",
-    "main.js.map": "/fare_calculator/static/js/main.647a2d94.chunk.js.map",
+    "main.js": "/fare_calculator/static/js/main.db2e3ff4.chunk.js",
+    "main.js.map": "/fare_calculator/static/js/main.db2e3ff4.chunk.js.map",
     "runtime-main.js": "/fare_calculator/static/js/runtime-main.e06b6ace.js",
     "runtime-main.js.map": "/fare_calculator/static/js/runtime-main.e06b6ace.js.map",
     "static/js/2.8cb9f3eb.chunk.js": "/fare_calculator/static/js/2.8cb9f3eb.chunk.js",
     "static/js/2.8cb9f3eb.chunk.js.map": "/fare_calculator/static/js/2.8cb9f3eb.chunk.js.map",
     "index.html": "/fare_calculator/index.html",
-    "precache-manifest.8a0da346f5c93596fece1a9faefffd1c.js": "/fare_calculator/precache-manifest.8a0da346f5c93596fece1a9faefffd1c.js",
+    "precache-manifest.6b0ab049be62f28a9c05efb7be7fd2f2.js": "/fare_calculator/precache-manifest.6b0ab049be62f28a9c05efb7be7fd2f2.js",
     "service-worker.js": "/fare_calculator/service-worker.js",
     "static/css/main.a75e158a.chunk.css.map": "/fare_calculator/static/css/main.a75e158a.chunk.css.map",
     "static/js/2.8cb9f3eb.chunk.js.LICENSE": "/fare_calculator/static/js/2.8cb9f3eb.chunk.js.LICENSE"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.e06b6ace.js",
     "static/js/2.8cb9f3eb.chunk.js",
     "static/css/main.a75e158a.chunk.css",
-    "static/js/main.647a2d94.chunk.js"
+    "static/js/main.db2e3ff4.chunk.js"
   ]
 }
