@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/fare_calculator/precache-manifest.c3b8d090620169f87303bbc5a38fc4cc.js"
+  "/fare_calculator/precache-manifest.8a0da346f5c93596fece1a9faefffd1c.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ca870fc0a72e284fb2a9e2ab203e07bb",
+    "revision": "39a044f6f1765fd57fb742b76fbd9ba2",
     "url": "/fare_calculator/index.html"
   },
   {
-    "revision": "acda6636910c18403300",
+    "revision": "5b935d5089f3ebfe8f53",
     "url": "/fare_calculator/static/css/main.a75e158a.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fare_calculator/static/js/2.8cb9f3eb.chunk.js.LICENSE"
   },
   {
-    "revision": "acda6636910c18403300",
-    "url": "/fare_calculator/static/js/main.3a4aa355.chunk.js"
+    "revision": "5b935d5089f3ebfe8f53",
+    "url": "/fare_calculator/static/js/main.647a2d94.chunk.js"
   },
   {
     "revision": "57db889ac6fa596b7f87",
