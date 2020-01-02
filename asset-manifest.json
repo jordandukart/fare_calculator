@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/fare_calculator/static/css/main.a75e158a.chunk.css",
-    "main.js": "/fare_calculator/static/js/main.6fd25a9a.chunk.js",
-    "main.js.map": "/fare_calculator/static/js/main.6fd25a9a.chunk.js.map",
+    "main.js": "/fare_calculator/static/js/main.da2446e9.chunk.js",
+    "main.js.map": "/fare_calculator/static/js/main.da2446e9.chunk.js.map",
     "runtime-main.js": "/fare_calculator/static/js/runtime-main.e06b6ace.js",
     "runtime-main.js.map": "/fare_calculator/static/js/runtime-main.e06b6ace.js.map",
-    "static/js/2.8cb9f3eb.chunk.js": "/fare_calculator/static/js/2.8cb9f3eb.chunk.js",
-    "static/js/2.8cb9f3eb.chunk.js.map": "/fare_calculator/static/js/2.8cb9f3eb.chunk.js.map",
+    "static/js/2.14b8b3c3.chunk.js": "/fare_calculator/static/js/2.14b8b3c3.chunk.js",
+    "static/js/2.14b8b3c3.chunk.js.map": "/fare_calculator/static/js/2.14b8b3c3.chunk.js.map",
     "index.html": "/fare_calculator/index.html",
-    "precache-manifest.8bb096d480e0a45dfe33f9aa5313cff1.js": "/fare_calculator/precache-manifest.8bb096d480e0a45dfe33f9aa5313cff1.js",
+    "precache-manifest.6719d12ceb653e8e885702503beb241a.js": "/fare_calculator/precache-manifest.6719d12ceb653e8e885702503beb241a.js",
     "service-worker.js": "/fare_calculator/service-worker.js",
     "static/css/main.a75e158a.chunk.css.map": "/fare_calculator/static/css/main.a75e158a.chunk.css.map",
-    "static/js/2.8cb9f3eb.chunk.js.LICENSE": "/fare_calculator/static/js/2.8cb9f3eb.chunk.js.LICENSE"
+    "static/js/2.14b8b3c3.chunk.js.LICENSE": "/fare_calculator/static/js/2.14b8b3c3.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.e06b6ace.js",
-    "static/js/2.8cb9f3eb.chunk.js",
+    "static/js/2.14b8b3c3.chunk.js",
     "static/css/main.a75e158a.chunk.css",
-    "static/js/main.6fd25a9a.chunk.js"
+    "static/js/main.da2446e9.chunk.js"
   ]
 }
